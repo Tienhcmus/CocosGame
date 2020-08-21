@@ -1,0 +1,58 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Kaboom",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.43333333333333335,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e38dab9c-7eb7-456e-ab34-47d7db91bb37"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "3c5f6d1b-45dc-4dea-b101-71db4b94c6f3"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "be2f83e5-161a-406b-84e7-cf9a20632afe"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "7dccfe00-7eac-4c4d-b232-0799f534f5bf"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "1c535b20-1916-4796-940b-223e95ddc545"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "f29102b4-b2b7-4e31-8797-6a421e7fbbdf"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": []
+    }
+  },
+  "events": []
+}

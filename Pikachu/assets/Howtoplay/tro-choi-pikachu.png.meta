@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "6b576f02-5bf4-4122-94ff-c670cdf9d667",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "tro-choi-pikachu": {
+      "ver": "1.0.3",
+      "uuid": "5014a522-e534-43ba-8746-7a88aff6a4a5",
+      "rawTextureUuid": "6b576f02-5bf4-4122-94ff-c670cdf9d667",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 601,
+      "height": 623,
+      "rawWidth": 601,
+      "rawHeight": 623,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

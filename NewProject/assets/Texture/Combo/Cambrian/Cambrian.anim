@@ -1,0 +1,60 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Cambrian",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.08333333333333333,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a84541d7-477f-4eb0-a640-c85c6d230496"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "7b8674c6-9025-427b-b958-e3c3f7c829f8"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "54532ebf-834f-4c2d-a12f-3b5dfaa939ca"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "06b642c1-b22d-421f-8560-dff46f448ea0"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "33ffa114-c617-4cc0-8249-2d3674c56bd4"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -19,
+            -98.6
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

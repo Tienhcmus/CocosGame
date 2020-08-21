@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Jurassic",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.08333333333333333,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d2f3d43c-e0ef-4ccd-aa48-331aa94e8274"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "5fcbdeb3-b6eb-442c-b64f-2f0b87115b7e"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "acbd8417-35ac-41eb-af50-905c87ebbf93"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "4e14a1ca-dd4c-447a-9508-4135a10297b8"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "11224e8c-ed56-4590-a9b5-4554775ff2fa"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            85,
+            144
+          ]
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": [
+            85,
+            145
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

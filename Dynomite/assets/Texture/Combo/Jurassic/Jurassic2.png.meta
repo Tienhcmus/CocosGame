@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "6a11896f-96b5-4747-a973-4113dd51947e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Jurassic2": {
+      "ver": "1.0.3",
+      "uuid": "acbd8417-35ac-41eb-af50-905c87ebbf93",
+      "rawTextureUuid": "6a11896f-96b5-4747-a973-4113dd51947e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 1.5,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 112,
+      "height": 140,
+      "rawWidth": 115,
+      "rawHeight": 145,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

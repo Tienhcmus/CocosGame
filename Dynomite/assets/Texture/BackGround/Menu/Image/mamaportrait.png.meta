@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "73fcdeb9-e9fa-4724-ba3d-f76279b331ee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "mamaportrait": {
+      "ver": "1.0.3",
+      "uuid": "6caca5ec-3c8b-4565-b3d9-65065e4fdd7d",
+      "rawTextureUuid": "73fcdeb9-e9fa-4724-ba3d-f76279b331ee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 89,
+      "height": 109,
+      "rawWidth": 89,
+      "rawHeight": 110,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

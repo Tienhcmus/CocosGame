@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "02fe4fb0-d2bd-495c-a761-ff5119981932",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "SidebarButtons2": {
+      "ver": "1.0.3",
+      "uuid": "67507430-8bf2-4198-8775-ae23e79c4c9e",
+      "rawTextureUuid": "02fe4fb0-d2bd-495c-a761-ff5119981932",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 91,
+      "height": 33,
+      "rawWidth": 91,
+      "rawHeight": 33,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

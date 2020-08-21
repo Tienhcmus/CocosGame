@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "1da1178d-410f-4c36-87e3-36b491f9cfac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "redbird-upflap": {
+      "ver": "1.0.3",
+      "uuid": "423383c1-0d43-40d0-b2fa-431ce009288f",
+      "rawTextureUuid": "1da1178d-410f-4c36-87e3-36b491f9cfac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 34,
+      "height": 24,
+      "rawWidth": 34,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

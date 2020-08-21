@@ -1,0 +1,58 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Charge",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.43333333333333335,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "da9bf0ff-9fe0-4a57-b06d-70dd07056b87"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "1461b008-a438-455b-b13d-6ce3654bda9e"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "baa30901-e966-4a07-ac3e-81c83ef0db11"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "bd501823-1d5f-4a22-b23f-cf2d12798d82"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "0c90e8bb-73e1-4e3f-8899-6a6337fefb02"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "ebd0d9f9-1d2a-4970-a121-350a6541b141"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": []
+    }
+  },
+  "events": []
+}

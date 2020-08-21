@@ -1,0 +1,60 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Triassic",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.08333333333333333,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b051640f-004f-436b-bef5-95480b6e29d8"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "81c56c39-ba8b-4b96-875c-209b804519b1"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "085d3c2b-800e-460c-9313-0bebb13999f5"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "b0a2cf6b-5bdd-45b4-8b14-af476dc6bcfa"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "6842396d-8258-4389-927d-bd5cd5a542e8"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -21.1,
+            -95.5
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}
